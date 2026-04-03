@@ -1,0 +1,1 @@
+# sdlccorp-shopify-odoo-connector
